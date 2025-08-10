@@ -9,7 +9,7 @@ A simple, responsive calculator built with HTML, CSS, and JavaScript. Supports b
 
 ## Usage
 
-You can access the Simple JavaScript Calculator by visiting the following link: [Simple JavaScript Calculator](https://harsh98trivedi.github.io/Simple-JavaScript-Calculator)
+You can access the Simple JavaScript Calculator by visiting the following link: [Simple JavaScript Calculator](https://github.com/valke-archana/CodeAlpha_SimpleCalculator.git)
 
 Simply enter your mathematical expressions and use the calculator's features to perform calculations with ease.
 
