@@ -9,7 +9,7 @@ A simple, responsive calculator built with HTML, CSS, and JavaScript. Supports b
 
 ## Usage
 
-You can access the Simple JavaScript Calculator by visiting the following link: [Simple JavaScript Calculator](https://github.com/valke-archana/CodeAlpha_SimpleCalculator.git)
+You can access the Simple JavaScript Calculator by visiting the following link: [Simple JavaScript Calculator](https://valke-archana.github.io/CodeAlpha_SimpleCalculator/calculator.html)
 
 Simply enter your mathematical expressions and use the calculator's features to perform calculations with ease.
 
